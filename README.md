@@ -13,6 +13,13 @@ Users can sign in, view events according to their membership tier (Free, Silver,
 
 ---
 
+🖼️ Screenshots
+
+<img width="1888" height="824" alt="image" src="https://github.com/user-attachments/assets/2a428e51-8d7b-4010-9876-1b05495b22ac" />
+<img width="1878" height="862" alt="image" src="https://github.com/user-attachments/assets/e98f245b-b12a-41f1-83f6-3d4f421ea9a3" />
+<img width="1532" height="864" alt="image" src="https://github.com/user-attachments/assets/917fd6e6-4d1c-4f27-899f-32612f12b63e" />
+<img width="1690" height="645" alt="image" src="https://github.com/user-attachments/assets/b6b3fd4f-8a96-40ff-9575-9c4a1185e8ab" />
+
 ## 🛠️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
@@ -71,13 +78,6 @@ Platinum 	platinumuser@gmail.com	 PlatinumUser123
 ✅ Responsive UI with Tailwind CSS and animations
 ```
 
-
-🖼️ Screenshots
-
-<img width="1888" height="824" alt="image" src="https://github.com/user-attachments/assets/2a428e51-8d7b-4010-9876-1b05495b22ac" />
-<img width="1878" height="862" alt="image" src="https://github.com/user-attachments/assets/e98f245b-b12a-41f1-83f6-3d4f421ea9a3" />
-<img width="1532" height="864" alt="image" src="https://github.com/user-attachments/assets/917fd6e6-4d1c-4f27-899f-32612f12b63e" />
-<img width="1690" height="645" alt="image" src="https://github.com/user-attachments/assets/b6b3fd4f-8a96-40ff-9575-9c4a1185e8ab" />
 
 
 
