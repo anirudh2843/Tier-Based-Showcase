@@ -17,6 +17,7 @@ Users can sign in, view events according to their membership tier (Free, Silver,
 
 ### 1️⃣ Clone the Repository
 git clone https://github.com/anirudh2843/Tier-Based-Showcase.git 
+```bash
 cd psypher-ai-events
 
 
