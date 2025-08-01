@@ -16,16 +16,20 @@ Users can sign in, view events according to their membership tier (Free, Silver,
 ## 🛠️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/anirudh2843/Tier-Based-Showcase.git 
 ```bash
+git clone https://github.com/anirudh2843/Tier-Based-Showcase.git 
 cd psypher-ai-events
+```
 
 
 2️⃣ Install Dependencies
+```bash
 npm install
+```
 
 
 3️⃣ Set Up Environment Variables
+```bash
 Create a .env.local file in the root folder and add:
 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your-clerk-publishable-key
@@ -33,24 +37,30 @@ CLERK_SECRET_KEY=your-clerk-secret-key
 
 NEXT_PUBLIC_SUPABASE_URL=your-supabase-url
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
+```
 
 4️⃣ Run Locally
+```bash
 npm run dev
+```
 
-🔑 Demo User Credentials
+🔑 Demo User Credentials:
 
 You can use the following demo credentials (simulate tier upgrades using the in-app "Upgrade Tier" buttons):
-
+```bash
 Tier	Email	Password
 Free : freeuser@gmail.com	FreeUser123
 Silver :	silveruser@gmail.com	SilverUser123
 Gold :	golduser@gmail.com	GoldUser123
 Platinum :	platinumuser@gmail.com	PlatinumUser123
+```
 
 🌐 Live Demo
+```bash
 🔗 Live Deployment (Vercel):  https://tier-based-showcase.vercel.app/
 
 🔗 GitHub Repository: https://github.com/anirudh2843/Tier-Based-Showcase.git
+```
 
 ✨ Features
 ✅ User authentication with Clerk
