@@ -16,7 +16,7 @@ Users can sign in, view events according to their membership tier (Free, Silver,
 ## 🛠️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/psypher-ai-events.git
+git clone https://github.com/anirudh2843/Tier-Based-Showcase.git
 cd psypher-ai-events
 
 
@@ -49,7 +49,7 @@ Platinum :	platinumuser@gmail.com	PlatinumUser123
 🌐 Live Demo
 🔗 Live Deployment (Vercel):  https://tier-based-showcase.vercel.app/
 
-🔗 GitHub Repository:
+🔗 GitHub Repository: https://github.com/anirudh2843/Tier-Based-Showcase.git
 
 ✨ Features
 ✅ User authentication with Clerk
