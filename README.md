@@ -48,7 +48,7 @@ npm run dev
 
 You can use the following demo credentials (simulate tier upgrades using the in-app "Upgrade Tier" buttons):
 ```bash
-Tier	Email	Password
+Tier            	Email	       Password
 Free : freeuser@gmail.com	FreeUser123
 Silver :	silveruser@gmail.com	SilverUser123
 Gold :	golduser@gmail.com	GoldUser123
@@ -63,11 +63,13 @@ Platinum :	platinumuser@gmail.com	PlatinumUser123
 ```
 
 ✨ Features
+```bash
 ✅ User authentication with Clerk
 ✅ Tier-based event filtering (Free, Silver, Gold, Platinum)
 ✅ Supabase for event storage & real-time updates
 ✅ Simulated tier upgrade buttons (for demo)
 ✅ Responsive UI with Tailwind CSS and animations
+```
 
 
 🖼️ Screenshots
