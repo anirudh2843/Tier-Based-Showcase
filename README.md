@@ -49,8 +49,8 @@ npm run dev
 You can use the following demo credentials (simulate tier upgrades using the in-app "Upgrade Tier" buttons):
 ```bash
 Tier            	Email	             Password
-Free       freeuser@gmail.com	     FreeUser123
-Silver    silveruser@gmail.com	  SilverUser123
+Free       freeuser@gmail.com	       FreeUser123
+Silver    silveruser@gmail.com	     SilverUser123
 Gold     	golduser@gmail.com	     GoldUser123
 Platinum 	platinumuser@gmail.com	 PlatinumUser123
 ```
